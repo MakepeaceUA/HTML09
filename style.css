@@ -1,0 +1,32 @@
+.header {
+  background-color: red;
+  padding: 20px;
+}
+
+.main-content {
+  display: flex;
+}
+
+.section {
+  flex: 1;
+  min-width: 200px;
+  height: 400px;
+  display: flex;
+}
+
+.section1 {
+  background-color: green;
+}
+
+.section2 {
+  background-color: blue;
+}
+
+.section3 {
+  background-color: orange;
+}
+
+.footer {
+  background-color: purple;
+  padding: 20px;
+}
